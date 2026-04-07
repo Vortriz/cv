@@ -42,7 +42,7 @@
 #section("Education")
 
 #timeline-entry(
-  title: [Indian Institute of Science Education and Research (IISER), #place[Mohali]],
+  title: [Indian Institute of Science Education and Research (IISER), #loc[Mohali]],
   subtitle: [Integrated Bachelors & Masters in Physics, with Minor in Data Science],
   date: "2021 – 2026",
   description: (
@@ -69,7 +69,7 @@
 )
 
 #timeline-entry(
-  title: [eduNova Science Higher Secondary School, #place[Ahmedabad]],
+  title: [eduNova Science Higher Secondary School, #loc[Ahmedabad]],
   subtitle: [12th - Gujarat Secondary and Higher Secondary Education Board],
   date: "2021",
   description: (

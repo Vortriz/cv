@@ -4,7 +4,7 @@
 
 #let pipe-sep = [#h(4pt) | #h(4pt)]
 
-#let place(it) = text(weight: "regular", size: 0.9em, fill: rgb("#7c7c7c"), it)
+#let loc(it) = text(weight: "regular", size: 0.9em, fill: rgb("#7c7c7c"), it)
 
 #let LaTeX = {
   set text(font: "New Computer Modern", weight: "bold")
