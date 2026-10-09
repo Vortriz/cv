@@ -1,2 +1,2 @@
 compile *args:
-    typst compile src/cv.typ . --format bundle --features bundle {{ args }}
+    typst compile data/main.typ . --root . --format bundle --features bundle {{ args }}
