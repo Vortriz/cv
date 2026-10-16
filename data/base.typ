@@ -28,8 +28,8 @@
     == Research Experience
 
     #template.timeline-entry(
-        title: [Quantum generative machine learning],
-        subtitle: [Masters Thesis],
+        title: [Quantum generative machine learning for state generation],
+        subtitle: [Master's Thesis],
         date: [12/2025 #sym.dash.em 09/2026],
         location: [IISER Pune],
     )[
@@ -37,7 +37,7 @@
                 [*Guide:* #link("https://sites.iiserpune.ac.in/~santh/")[Prof. Santhanam]],
                 [*Code:* #link("https://github.com/Vortriz/thesis")[github.com/Vortriz/thesis]],
             )
-        - Created a new Quantum Generative model that requires fewer resources and has significantly faster convergence compared to existing models, such as #link("https://link.aps.org/doi/10.1103/PhysRevLett.132.100602")[QuDDPM].
+        - Created a new quantum state generation model that requires fewer resources and has significantly faster convergence compared to existing models, such as #link("https://link.aps.org/doi/10.1103/PhysRevLett.132.100602")[QuDDPM].
         - Applied it to various tasks, such as learning many-body phases, states distributed over nontrivial topology, localized states of Quantum Kicked Rotor etc.
         - Benchmarked gradient-free optimization strategies such as QNSPSA, SPSA, and Rotosolve against gradient-based approaches.
         - Created a Julia implementation using Yao.jl, with optional CUDA acceleration.
