@@ -5,7 +5,7 @@
 
     #template.timeline-entry(
         title: [Indian Institute of Science Education and Research (IISER)],
-        subtitle: [Integrated Bachelors & Masters, with Major in Physics and Minor in Data Science],
+        subtitle: [Integrated Bachelors & Masters in Science, with Physics Major and Data Science Minor],
         date: [2021 #sym.dash.em 2026],
         location: [Mohali],
     )[
